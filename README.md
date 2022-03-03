@@ -1,6 +1,6 @@
 # Class-Management-System-with-Barcode-Reading
 
-A Class Management System with Barcode-Reading developed as the semester project for OOP module.
+A Class Management System with Barcode Reading developed as the semester project for OOP-I module.
 
 // Created By- Sandul Jayakody
 
